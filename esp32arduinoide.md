@@ -2,13 +2,9 @@
 
 #### •    [GitHub Page](https://github.com/espressif/arduino-esp32 "GitHub Page")
 
-#### •    \[Original Installation guide for windows
-
-\]\([https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md)\)
+#### •    [Original Installation guide for windows](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md)
 
 ## ۱. نصب پیش‌نیاز‌ها:
-
-
 
 آخرین نسخه‌ی Arduino IDE را از «[arduino.cc](https://www.arduino.cc/en/Main/Software)» نصب کنید.
 
@@ -16,7 +12,7 @@
 
 ![](/ESP32/python_Installation.png)
 
-سپس   
+سپس  
 Git را از «git-scm.com» دانلود و نصب کنید.
 
 #### ۲.Git GUI را باز کنید و مراحل زیر را انجام دهید:
